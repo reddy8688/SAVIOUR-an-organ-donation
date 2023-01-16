@@ -2,7 +2,6 @@
 
 Hi 👋, I'm Devi Varaprasad Reddy
 
-A passionate frontend developer from India
 
 🔭 I’m currently working on Organ Donation Andriod Application
 
