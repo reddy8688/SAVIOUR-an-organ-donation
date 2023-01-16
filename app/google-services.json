@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183577619681",
+    "project_id": "saviour8-bf7c5",
+    "storage_bucket": "saviour8-bf7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183577619681:android:9769de701d85db07e6dba0",
+        "android_client_info": {
+          "package_name": "com.example.project8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183577619681-t0ok1apbb5vmtj97j2imf1o3g4v53drm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project8",
+            "certificate_hash": "5eb5c6371d3ed97c0cd9ff0535c29c3c21ce1b50"
+          }
+        },
+        {
+          "client_id": "183577619681-j3os37covdn8usr3ced65lc32bett3e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCof2FogXxUPNy1v8VLn0u-pBCQ9bsfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183577619681-j3os37covdn8usr3ced65lc32bett3e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

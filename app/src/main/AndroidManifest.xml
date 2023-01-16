@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.project8">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Project8">
+        <activity
+            android:name=".contactus"
+            android:exported="false" />
+        <activity
+            android:name=".phoneotp"
+            android:exported="false" />
+        <activity
+            android:name=".transhosiptal"
+            android:exported="false" />
+        <activity
+            android:name=".kaminenihospitalsprivatelimitedbloodbank"
+            android:exported="false" />
+        <activity
+            android:name=".pledgeorgan"
+            android:exported="false" />
+        <activity
+            android:name=".profile"
+            android:exported="false" />
+        <activity
+            android:name=".bloodbank"
+            android:exported="false" />
+        <activity
+            android:name=".organtransplant"
+            android:exported="false" />
+        <activity
+            android:name=".bodydonation"
+            android:exported="false" />
+        <activity
+            android:name=".skinbanks"
+            android:exported="false" />
+        <activity
+            android:name=".eyebanks"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

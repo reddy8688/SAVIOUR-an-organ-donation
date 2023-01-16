@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">project8</string>
+
+
+    <string name="tamilnadu">
+        ADDRESS
+           313, Mettupalayam Road, Coimbatore,Tamil Nadu,
+           Pincode - 641043
+           Phone: 9842219328/ +914222485000
+           Mobile: 9842219328
+           Email: rajahand@vsnl.com
+           Website: www.gangahospital.com
+    </string>
+
+    <string name="madhyapradesh">
+        ADDRESS
+        14, Manik Bagh Road.,Indore,Madhya Pradesh
+        Pincode - 452014
+        Phone: 9320124828/ +917312362491 / +919993307704
+        Mobile: 93201248428
+        Email: jaiwantnikam@rediffmail.com
+    </string>
+
+    <string name="maharashtra">
+         ADDRESS
+         BSESMunicipal General Hospital SV Rd, Lohana Colony, Andheri Wes
+         Mumbai,Maharashtra
+         Pincode - 400058
+         Phone: 022 6648 7500 / 022 66487570
+    </string>
+
+    <string name="karnataka">
+       ADDRESS
+        KLES Rotary Skin Bank KLES Dr. Prabhakar Kore Hospital And Medical Research Centre, Nehru Nagar,Belgavi
+        Karnataka
+        Pincode - 590010
+        Phone: 9964388777
+    </string>
+
+    <string name="odisha">
+               ADDRESS
+    Institute Of Medical Sciences And SUM Hospital K8 Lane 1, Kalinganagar,Bhubaneswar,
+    Odisha
+    Pincode - 751003
+    Phone: 0674 238 6281/ 8763066768
+    </string>
+
+    <string name="gujarat">
+        ADDRESS
+        AT / PO: PIPARIA, WAGHODIA ROAD ,Vadodara,
+        Gujarat.
+        Pincode - 391760
+        Phone: 02668 245262
+        Mobile: 02668 245266
+    </string>
+
+    <string name="delhi">
+        ADDRESS
+        1 / 31, Sheikh Sarai Institutional Area- II
+        New Delhi,Delhi NCR
+        Pincode - 110017
+        Phone: 911129250952 / 911129250757
+    </string>
+    <string name="tamilnadu1">
+        ADDRESS
+        Officers Colony Road, Puthur, Thillai Nagar,Tiruchirappalli,Tamil Nadu
+        Pincode - 620017
+        Phone: +914312792901
+    </string>
+    <string name="karnataka1">
+        ADDRESS
+        Nudi Jenu Newspaper Office, Amberkodla Road,Ankola,Karnataka
+        Pincode - 581314
+        Phone: +919900449262
+    </string>
+    <string name="uttarpradesh1">
+        ADDRESS
+        Mahanagar Extension, Shadab Colony, Mahanagar,Lucknow,Uttar Pradesh
+        Pincode - 226006
+        Phone: 0522 2335122
+        Email: info@abinavdrishti.org
+    </string>
+    <string name="kerala">
+        ADDRESS
+        Ponekkara,Kochi
+        Kerala
+        Pincode - 682041
+        Phone: +914844001234
+    </string>
+
+    <string name="andhrapradesh">
+        ADDRESS
+        D.No. 70-10-4, NFCL Road, Nagamallithota Junction,Kakinada,Andhra Pradesh
+        Pincode - 533003
+        Phone: +918846690567/ 2370600 / 2379184 / 2373060 / +919989799456 / +919490710666 / +919848160999
+        Email: badambk@yahoo.co.in
+    </string>
+
+    <string name="andhrapradesh1">
+        ADDRESS
+        "Dr. Venkatramana Reddy Chairman 15/455, Near SRS Lodge Kamala Nagar ANATAPUR-515001 515001",Anatapur,Andhra Pradesh
+         Pincode - 515001
+         Phone: 08554-241703
+         Mobile: 9908240930
+    </string>
+
+    <string name="ts">
+        ADDRESS
+        Godavarikhani Road, Bommakal,Karimnagar,Telangana
+        Pincode - 505001
+        Phone: +918782285565 / +918782285318
+        Email: aasim.dr@rediffmail.com
+    </string>
+    <string name="ap">
+        ADDRESS
+        Area Hoapital, (Y.S Men Club International), 4/53, RajuPet, Krishna District,Manchilipatnam,Andhra Pradesh
+        Pincode - 521001
+        Phone: +918672223000 / +919290130236
+        Email: drrao52@yahoo.co.in
+    </string>
+
+    <string name="blood1">
+        Address: Kamineni Hospital, 10, Inner Ring Road, Ward 12 Mansoorabad, Greater Hyderabad Municipal Corporation East Zone, Saroornagar, Telangana 500074
+    </string>
+
+    <string name="blood2">Address: A Unit of Unimed Healthcare Private Limited, 8-2-596, Banjara Hills Rd Number 10, Gaffar Khan Colony, Banjara Hills, Hyderabad, Telangana 500034</string>
+
+    <string name="blood3">
+       Address: 500003, Regimental Bazaar, Shivaji Nagar, Hyderabad, Telangana 500003
+   </string>
+
+    <string name="blood4">
+        Address: Opp. Erragadda Raitu Bazzar Erragadda, Sanath Nagar, Hyderabad, Telangana 500018
+    </string>
+
+    <string name="blood5">
+        Address: Shop Number 4-3-154/3, H V S Road, beside Pragati College, Ramkoti, Hanuman Tekdi, Koti, Hyderabad, Telangana 500001
+    </string>
+
+    <string name="blood6">
+        Address: 2ND FLOOR, Jetta Mallaiah Complex, H.NO:-2-157, NEAR:- GANDHI STATUTE, Hyderabad, Telangana 500039
+    </string>
+
+    <string name="blood7">
+        Address: 4th Floor, Janpriya Sauda Complex, Kamala Nagar, Dilsukhnagar, Hyderabad, Telangana 500060
+    </string>
+
+    <string name="blood8">
+        Address: H.No. 8-15-106/1, 3rd floor, Sri Ram Nagar, Lane Beside BVK Multiplex, L.B Nagar, Hyderabad, Telangana 500074
+    </string>
+    <string name="blood9">
+        Address: 1, VV Nagar Rd, Gunna Sithram Reddy Residency, Kamala Nagar, Dilsukhnagar, Hyderabad, Telangana 500060
+    </string>
+
+    <string name="blood10">
+        Address: 9G4Q+438, Bhagat Singh nagar, Sri Venkateshwara Colony, Uppal, Mandal, Telangana 500035
+    </string>
+
+    <string name="tran1">
+        Address: New No 72, Old No 54, Nelson Manickam Rd, Collectorate Colony, Aminjikarai, Chennai, Tamil Nadu 600029
+    </string>
+
+    <string name="tran2">
+        Address: HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081
+    </string>
+
+    <string name="tran3">
+        Address: Gleneagles Heart Transplant Surgery Hospital Gleneagles Global Health City 439, Medavakkam Road, Perumbakkam, Chennai, Tamil Nadu 600100
+    </string>
+    <string name="tran4">
+        Address: 7, CLC Works Rd, Nagappa Nagar, Chromepet, Chennai, Tamil Nadu 600044
+    </string>
+
+    <string name="tran5">
+        Address: OP Block, Cheran Nagar, Perumbakkam, Chennai, Tamil Nadu 600100
+    </string>
+</resources>
