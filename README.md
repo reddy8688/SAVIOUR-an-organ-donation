@@ -11,8 +11,8 @@ Connect with me: In Linkedln https://www.linkedin.com/in/varaprasad-reddy-369238
 
 Languages and Tools:
 android
-flutter
-javascript
+Abode
+java
 mysql
 python
-sqlite
+
